@@ -79,7 +79,12 @@
     right:0.3rem;
     bottom:0.2rem;
 }
-
+.page1 img:nth-of-type(11){
+    width: 3.5rem;
+    height:2.3rem;
+    right:1.8rem;
+    top:4.5rem;
+}
 
 /* ==PAGE2== */
 .page2 {
@@ -106,24 +111,24 @@
 }
 
 .page2 img:nth-of-type(3) {
-    width: 1.5rem;
-    height: 2.4rem;
+    width: 2.7rem;
+    height: 4.8rem;
     right:1.35rem;
     bottom: 0rem;
 }
 
 .page2 img:nth-of-type(4) {
-    width: 2.4rem;
-    height: 1.5rem;
+    width: 3.2rem;
+    height: 2.1rem;
     right: 1.2rem;
-    top: 1.0rem;
+    top: 3.0rem;
 }
 
 .page2 img:nth-of-type(5) {
-    width: 2.6rem;
-    height: 1.52rem;
+    width: 2.9rem;
+    height: 2.2rem;
     left: 1.3rem;
-    top: 2.4rem;
+    top: 5.2rem;
 }
 
 .page2 img:nth-of-type(6) {
@@ -149,10 +154,10 @@
 }
 
 .page3 img:nth-of-type(2) {
-        width: 2.8rem;
-        height: 1.8rem;
-        left: 2.3rem;
-        top: 1.4rem;
+        width: 3.4rem;
+        height: 2.0rem;
+        left: 2.1rem;
+        top: 2.6rem;
 }
 
 .page3 img:nth-of-type(3) {
@@ -163,15 +168,15 @@
 }
 
 .page3 img:nth-of-type(4) {
-        width: 2.3rem;
-        height: 1.7rem;
+        width: 2.7rem;
+        height: 2.2rem;
         left: 1.2rem;
-         top: 3.4rem;
+         top: 5.1rem;
 }
                 
 .page3 img:nth-of-type(5) {
-        width: 2.3rem;
-         height: 1.7rem;
-         left: 3.7rem;
-         top: 3.4rem;  
+        width: 2.55rem;
+         height:2.9rem;
+         left: 4.2rem;
+         top: 6.9rem;  
 } 
