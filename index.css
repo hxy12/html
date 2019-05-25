@@ -1,0 +1,177 @@
+
+/* ==PAGE1== */
+.page1 {
+    background: url(image/1.png.webp) no-repeat;
+    background-size: cover;
+}
+
+.page1 img {
+    position: absolute;
+}
+
+.page1 img:nth-of-type(1) {
+    width: 3.5rem;
+    height: 5.2rem;
+    left:0; 
+    top:0;
+}
+
+.page1 img:nth-of-type(2) {
+    width: 1.32rem;
+    height:2.5rem;
+    left:0;
+    bottom:0;
+}
+
+.page1 img:nth-of-type(3) {
+    width:1.48rem;
+    height:0.85rem;
+    left:1.9rem;
+    top:1.6rem;
+}
+
+.page1 img:nth-of-type(4) {
+    width:2.0rem;
+    height:1.25rem;
+    right: 0rem;
+    top: 0rem;
+}
+
+.page1 img:nth-of-type(5) {
+    width: 1.52rem;
+    height: 0.56rem;
+    right:1.9rem;
+    top: 2.6rem;
+}
+
+.page1 img:nth-of-type(6){
+    width: 1.12rem;
+    height:0.53rem;
+    left: 2.0rem;
+    top: 1.7rem;
+
+}
+
+.page1 img:nth-of-type(7){
+    width: 0.64rem;
+    height: 0.38rem;
+    left:2.7rem;
+    top: 2.8rem;
+}
+
+.page1 img:nth-of-type(8){
+    width: 0.7rem;
+    height: 0.14rem;
+    right:2.3rem;
+    top: 2.0rem;
+}
+
+.page1 img:nth-of-type(9){
+    width: 0.75rem;
+    height:0.3rem;
+    right:0.65rem;
+    bottom:2.3rem;
+}
+
+.page1 img:nth-of-type(10){
+    width: 0.92rem;
+    height:0.8rem;
+    right:0.3rem;
+    bottom:0.2rem;
+}
+
+
+/* ==PAGE2== */
+.page2 {
+    background: url(image/1.png.webp) no-repeat;
+    background-size: cover;
+}
+
+.page2 img {
+    position: absolute;
+}
+
+.page2 img:nth-of-type(1) {
+    width: 4rem;
+    height: 2rem;
+    left: 0;
+    top: .1rem;
+}
+
+.page2 img:nth-of-type(2) {
+    width:2.0rem;
+    height:1.25rem;
+    right: 0rem;
+    top: 0rem;
+}
+
+.page2 img:nth-of-type(3) {
+    width: 1.5rem;
+    height: 2.4rem;
+    right:1.35rem;
+    bottom: 0rem;
+}
+
+.page2 img:nth-of-type(4) {
+    width: 2.4rem;
+    height: 1.5rem;
+    right: 1.2rem;
+    top: 1.0rem;
+}
+
+.page2 img:nth-of-type(5) {
+    width: 2.6rem;
+    height: 1.52rem;
+    left: 1.3rem;
+    top: 2.4rem;
+}
+
+.page2 img:nth-of-type(6) {
+    width: 1.2rem;
+    height: 2.0rem;
+    left: 0.2rem;
+    top: 0.6rem;
+}
+
+.page3 {
+    background: url(image/1.png.webp) no-repeat;
+    background-size: cover;
+}
+
+.page3 img {
+    position: absolute;
+}
+.page3 img:nth-of-type(1) {
+    width: 2.0rem;
+    height: 1.15rem;
+    left: 0.2rem;
+    top: 0.2rem;
+}
+
+.page3 img:nth-of-type(2) {
+        width: 2.8rem;
+        height: 1.8rem;
+        left: 2.3rem;
+        top: 1.4rem;
+}
+
+.page3 img:nth-of-type(3) {
+        width: 1.4rem;
+        height: 1.0rem;
+        right: 0.05rem;
+        bottom: 0.3rem;
+}
+
+.page3 img:nth-of-type(4) {
+        width: 2.3rem;
+        height: 1.7rem;
+        left: 1.2rem;
+         top: 3.4rem;
+}
+                
+.page3 img:nth-of-type(5) {
+        width: 2.3rem;
+         height: 1.7rem;
+         left: 3.7rem;
+         top: 3.4rem;  
+} 
